@@ -1,0 +1,2695 @@
+Time 0
+Waiting clients: [Client{id=2, arrivalTime=4, serviceTime=8}, Client{id=1, arrivalTime=5, serviceTime=4}, Client{id=3, arrivalTime=5, serviceTime=7}, Client{id=4, arrivalTime=5, serviceTime=5}, Client{id=5, arrivalTime=5, serviceTime=3}, Client{id=6, arrivalTime=6, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+Time 1
+Waiting clients: [Client{id=2, arrivalTime=4, serviceTime=8}, Client{id=1, arrivalTime=5, serviceTime=4}, Client{id=3, arrivalTime=5, serviceTime=7}, Client{id=4, arrivalTime=5, serviceTime=5}, Client{id=5, arrivalTime=5, serviceTime=3}, Client{id=6, arrivalTime=6, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+Time 2
+Waiting clients: [Client{id=2, arrivalTime=4, serviceTime=8}, Client{id=1, arrivalTime=5, serviceTime=4}, Client{id=3, arrivalTime=5, serviceTime=7}, Client{id=4, arrivalTime=5, serviceTime=5}, Client{id=5, arrivalTime=5, serviceTime=3}, Client{id=6, arrivalTime=6, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+Time 3
+Waiting clients: [Client{id=2, arrivalTime=4, serviceTime=8}, Client{id=1, arrivalTime=5, serviceTime=4}, Client{id=3, arrivalTime=5, serviceTime=7}, Client{id=4, arrivalTime=5, serviceTime=5}, Client{id=5, arrivalTime=5, serviceTime=3}, Client{id=6, arrivalTime=6, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+Time 4
+Waiting clients: [Client{id=1, arrivalTime=5, serviceTime=4}, Client{id=3, arrivalTime=5, serviceTime=7}, Client{id=4, arrivalTime=5, serviceTime=5}, Client{id=5, arrivalTime=5, serviceTime=3}, Client{id=6, arrivalTime=6, serviceTime=3}]
+Queue 1: [Client{id=2, arrivalTime=4, serviceTime=8}]
+Queue 2: []
+
+Time 5
+Waiting clients: [Client{id=6, arrivalTime=6, serviceTime=3}]
+Queue 1: [Client{id=2, arrivalTime=4, serviceTime=8}, Client{id=3, arrivalTime=5, serviceTime=7}, Client{id=5, arrivalTime=5, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=5, serviceTime=4}, Client{id=4, arrivalTime=5, serviceTime=5}]
+
+Time 6
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=4, serviceTime=8}, Client{id=3, arrivalTime=5, serviceTime=7}, Client{id=5, arrivalTime=5, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=5, serviceTime=4}, Client{id=4, arrivalTime=5, serviceTime=5}, Client{id=6, arrivalTime=6, serviceTime=3}]
+
+Time 7
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=4, serviceTime=8}, Client{id=3, arrivalTime=5, serviceTime=7}, Client{id=5, arrivalTime=5, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=5, serviceTime=4}, Client{id=4, arrivalTime=5, serviceTime=5}, Client{id=6, arrivalTime=6, serviceTime=3}]
+
+Time 8
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=4, serviceTime=8}, Client{id=3, arrivalTime=5, serviceTime=7}, Client{id=5, arrivalTime=5, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=5, serviceTime=4}, Client{id=4, arrivalTime=5, serviceTime=5}, Client{id=6, arrivalTime=6, serviceTime=3}]
+
+Time 9
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=4, serviceTime=8}, Client{id=3, arrivalTime=5, serviceTime=7}, Client{id=5, arrivalTime=5, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=5, serviceTime=4}, Client{id=4, arrivalTime=5, serviceTime=5}, Client{id=6, arrivalTime=6, serviceTime=3}]
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=4, serviceTime=8}, Client{id=3, arrivalTime=5, serviceTime=7}, Client{id=5, arrivalTime=5, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=5, serviceTime=4}, Client{id=4, arrivalTime=5, serviceTime=5}, Client{id=6, arrivalTime=6, serviceTime=3}]
+
+Time 0
+Waiting clients: [Client{id=5, arrivalTime=5, serviceTime=5}, Client{id=6, arrivalTime=5, serviceTime=3}, Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=4, arrivalTime=6, serviceTime=6}, Client{id=9, arrivalTime=6, serviceTime=6}, Client{id=7, arrivalTime=7, serviceTime=3}, Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=8, arrivalTime=8, serviceTime=3}, Client{id=10, arrivalTime=8, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=5, arrivalTime=5, serviceTime=5}, Client{id=6, arrivalTime=5, serviceTime=3}, Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=4, arrivalTime=6, serviceTime=6}, Client{id=9, arrivalTime=6, serviceTime=6}, Client{id=7, arrivalTime=7, serviceTime=3}, Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=8, arrivalTime=8, serviceTime=3}, Client{id=10, arrivalTime=8, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=5, arrivalTime=5, serviceTime=5}, Client{id=6, arrivalTime=5, serviceTime=3}, Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=4, arrivalTime=6, serviceTime=6}, Client{id=9, arrivalTime=6, serviceTime=6}, Client{id=7, arrivalTime=7, serviceTime=3}, Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=8, arrivalTime=8, serviceTime=3}, Client{id=10, arrivalTime=8, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=5, arrivalTime=5, serviceTime=5}, Client{id=6, arrivalTime=5, serviceTime=3}, Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=4, arrivalTime=6, serviceTime=6}, Client{id=9, arrivalTime=6, serviceTime=6}, Client{id=7, arrivalTime=7, serviceTime=3}, Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=8, arrivalTime=8, serviceTime=3}, Client{id=10, arrivalTime=8, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=5, arrivalTime=5, serviceTime=5}, Client{id=6, arrivalTime=5, serviceTime=3}, Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=4, arrivalTime=6, serviceTime=6}, Client{id=9, arrivalTime=6, serviceTime=6}, Client{id=7, arrivalTime=7, serviceTime=3}, Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=8, arrivalTime=8, serviceTime=3}, Client{id=10, arrivalTime=8, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=4, arrivalTime=6, serviceTime=6}, Client{id=9, arrivalTime=6, serviceTime=6}, Client{id=7, arrivalTime=7, serviceTime=3}, Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=8, arrivalTime=8, serviceTime=3}, Client{id=10, arrivalTime=8, serviceTime=5}]
+Queue 1: [Client{id=5, arrivalTime=5, serviceTime=5}]
+Queue 2: [Client{id=6, arrivalTime=5, serviceTime=3}]
+
+
+Time 6
+Waiting clients: [Client{id=7, arrivalTime=7, serviceTime=3}, Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=8, arrivalTime=8, serviceTime=3}, Client{id=10, arrivalTime=8, serviceTime=5}]
+Queue 1: [Client{id=5, arrivalTime=5, serviceTime=5}, Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=6, serviceTime=6}]
+Queue 2: [Client{id=6, arrivalTime=5, serviceTime=3}, Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=9, arrivalTime=6, serviceTime=6}]
+
+
+Time 7
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=8, arrivalTime=8, serviceTime=3}, Client{id=10, arrivalTime=8, serviceTime=5}]
+Queue 1: [Client{id=5, arrivalTime=5, serviceTime=5}, Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=6, serviceTime=6}, Client{id=7, arrivalTime=7, serviceTime=3}]
+Queue 2: [Client{id=6, arrivalTime=5, serviceTime=3}, Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=9, arrivalTime=6, serviceTime=6}]
+
+
+Time 8
+Waiting clients: []
+Queue 1: [Client{id=5, arrivalTime=5, serviceTime=5}, Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=6, serviceTime=6}, Client{id=7, arrivalTime=7, serviceTime=3}, Client{id=8, arrivalTime=8, serviceTime=3}]
+Queue 2: [Client{id=6, arrivalTime=5, serviceTime=3}, Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=9, arrivalTime=6, serviceTime=6}, Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=10, arrivalTime=8, serviceTime=5}]
+
+
+Time 9
+Waiting clients: []
+Queue 1: [Client{id=5, arrivalTime=5, serviceTime=5}, Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=6, serviceTime=6}, Client{id=7, arrivalTime=7, serviceTime=3}, Client{id=8, arrivalTime=8, serviceTime=3}]
+Queue 2: [Client{id=6, arrivalTime=5, serviceTime=3}, Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=9, arrivalTime=6, serviceTime=6}, Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=10, arrivalTime=8, serviceTime=5}]
+
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=5, arrivalTime=5, serviceTime=5}, Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=6, serviceTime=6}, Client{id=7, arrivalTime=7, serviceTime=3}, Client{id=8, arrivalTime=8, serviceTime=3}]
+Queue 2: [Client{id=6, arrivalTime=5, serviceTime=3}, Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=9, arrivalTime=6, serviceTime=6}, Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=10, arrivalTime=8, serviceTime=5}]
+
+
+Time 0
+Waiting clients: [Client{id=2, arrivalTime=4, serviceTime=7}, Client{id=3, arrivalTime=4, serviceTime=5}, Client{id=1, arrivalTime=6, serviceTime=8}, Client{id=4, arrivalTime=6, serviceTime=8}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=2, arrivalTime=4, serviceTime=7}, Client{id=3, arrivalTime=4, serviceTime=5}, Client{id=1, arrivalTime=6, serviceTime=8}, Client{id=4, arrivalTime=6, serviceTime=8}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=2, arrivalTime=4, serviceTime=7}, Client{id=3, arrivalTime=4, serviceTime=5}, Client{id=1, arrivalTime=6, serviceTime=8}, Client{id=4, arrivalTime=6, serviceTime=8}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=2, arrivalTime=4, serviceTime=7}, Client{id=3, arrivalTime=4, serviceTime=5}, Client{id=1, arrivalTime=6, serviceTime=8}, Client{id=4, arrivalTime=6, serviceTime=8}]
+Queue 1: []
+Queue 2: []
+
+
+Time 0
+Waiting clients: [Client{id=1, arrivalTime=5, serviceTime=5}, Client{id=2, arrivalTime=6, serviceTime=7}, Client{id=3, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=1, arrivalTime=6, serviceTime=8}, Client{id=4, arrivalTime=6, serviceTime=8}]
+Queue 1: [Client{id=2, arrivalTime=4, serviceTime=7}]
+Queue 2: [Client{id=3, arrivalTime=4, serviceTime=5}]
+
+
+Time 1
+Waiting clients: [Client{id=1, arrivalTime=5, serviceTime=5}, Client{id=2, arrivalTime=6, serviceTime=7}, Client{id=3, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=1, arrivalTime=6, serviceTime=8}, Client{id=4, arrivalTime=6, serviceTime=8}]
+Queue 1: [Client{id=2, arrivalTime=4, serviceTime=7}]
+Queue 2: [Client{id=3, arrivalTime=4, serviceTime=5}]
+
+
+Time 2
+Waiting clients: [Client{id=1, arrivalTime=5, serviceTime=5}, Client{id=2, arrivalTime=6, serviceTime=7}, Client{id=3, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 6
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=4, serviceTime=7}, Client{id=1, arrivalTime=6, serviceTime=8}]
+Queue 2: [Client{id=3, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=6, serviceTime=8}]
+
+
+Time 3
+Waiting clients: [Client{id=1, arrivalTime=5, serviceTime=5}, Client{id=2, arrivalTime=6, serviceTime=7}, Client{id=3, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 7
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=4, serviceTime=7}, Client{id=1, arrivalTime=6, serviceTime=8}]
+Queue 2: [Client{id=3, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=6, serviceTime=8}]
+
+
+Time 4
+Waiting clients: [Client{id=1, arrivalTime=5, serviceTime=5}, Client{id=2, arrivalTime=6, serviceTime=7}, Client{id=3, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 8
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=4, serviceTime=7}, Client{id=1, arrivalTime=6, serviceTime=8}]
+Queue 2: [Client{id=3, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=6, serviceTime=8}]
+
+
+Time 5
+Waiting clients: [Client{id=2, arrivalTime=6, serviceTime=7}, Client{id=3, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=3}]
+Queue 1: [Client{id=1, arrivalTime=5, serviceTime=5}]
+Queue 2: []
+
+
+Time 9
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=4, serviceTime=7}, Client{id=1, arrivalTime=6, serviceTime=8}]
+Queue 2: [Client{id=3, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=6, serviceTime=8}]
+
+
+Time 6
+Waiting clients: [Client{id=4, arrivalTime=8, serviceTime=3}]
+Queue 1: [Client{id=1, arrivalTime=5, serviceTime=5}, Client{id=3, arrivalTime=6, serviceTime=3}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=7}]
+
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=4, serviceTime=7}, Client{id=1, arrivalTime=6, serviceTime=8}]
+Queue 2: [Client{id=3, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=6, serviceTime=8}]
+
+
+Time 7
+Waiting clients: [Client{id=4, arrivalTime=8, serviceTime=3}]
+Queue 1: [Client{id=1, arrivalTime=5, serviceTime=5}, Client{id=3, arrivalTime=6, serviceTime=3}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=7}]
+
+
+Time 8
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=5, serviceTime=5}, Client{id=3, arrivalTime=6, serviceTime=3}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=7}, Client{id=4, arrivalTime=8, serviceTime=3}]
+
+
+Time 9
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=5, serviceTime=5}, Client{id=3, arrivalTime=6, serviceTime=3}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=7}, Client{id=4, arrivalTime=8, serviceTime=3}]
+
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=5, serviceTime=5}, Client{id=3, arrivalTime=6, serviceTime=3}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=7}, Client{id=4, arrivalTime=8, serviceTime=3}]
+
+
+Time 0
+Waiting clients: [Client{id=1, arrivalTime=3, serviceTime=7}, Client{id=2, arrivalTime=3, serviceTime=5}, Client{id=5, arrivalTime=3, serviceTime=4}, Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=1, arrivalTime=3, serviceTime=7}, Client{id=2, arrivalTime=3, serviceTime=5}, Client{id=5, arrivalTime=3, serviceTime=4}, Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=1, arrivalTime=3, serviceTime=7}, Client{id=2, arrivalTime=3, serviceTime=5}, Client{id=5, arrivalTime=3, serviceTime=4}, Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=5}]
+Queue 1: [Client{id=1, arrivalTime=3, serviceTime=7}, Client{id=5, arrivalTime=3, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=3, serviceTime=5}]
+
+
+Time 4
+Waiting clients: [Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=5}]
+Queue 1: [Client{id=1, arrivalTime=3, serviceTime=7}, Client{id=5, arrivalTime=3, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=3, serviceTime=5}]
+
+
+Time 5
+Waiting clients: [Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=5}]
+Queue 1: [Client{id=1, arrivalTime=3, serviceTime=7}, Client{id=5, arrivalTime=3, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=3, serviceTime=5}]
+
+
+Time 6
+Waiting clients: [Client{id=4, arrivalTime=7, serviceTime=5}]
+Queue 1: [Client{id=1, arrivalTime=3, serviceTime=7}, Client{id=5, arrivalTime=3, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=3, serviceTime=5}, Client{id=3, arrivalTime=6, serviceTime=4}]
+
+
+Time 7
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=3, serviceTime=7}, Client{id=5, arrivalTime=3, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=5}]
+Queue 2: [Client{id=2, arrivalTime=3, serviceTime=5}, Client{id=3, arrivalTime=6, serviceTime=4}]
+
+
+Time 8
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=3, serviceTime=7}, Client{id=5, arrivalTime=3, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=5}]
+Queue 2: [Client{id=2, arrivalTime=3, serviceTime=5}, Client{id=3, arrivalTime=6, serviceTime=4}]
+
+
+Time 9
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=3, serviceTime=7}, Client{id=5, arrivalTime=3, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=5}]
+Queue 2: [Client{id=2, arrivalTime=3, serviceTime=5}, Client{id=3, arrivalTime=6, serviceTime=4}]
+
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=3, serviceTime=7}, Client{id=5, arrivalTime=3, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=5}]
+Queue 2: [Client{id=2, arrivalTime=3, serviceTime=5}, Client{id=3, arrivalTime=6, serviceTime=4}]
+
+
+Time 0
+Waiting clients: [Client{id=3, arrivalTime=5, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=2, arrivalTime=14, serviceTime=3}, Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=3, arrivalTime=5, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=2, arrivalTime=14, serviceTime=3}, Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=3, arrivalTime=5, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=2, arrivalTime=14, serviceTime=3}, Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=3, arrivalTime=5, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=2, arrivalTime=14, serviceTime=3}, Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=3, arrivalTime=5, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=2, arrivalTime=14, serviceTime=3}, Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=2, arrivalTime=14, serviceTime=3}, Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}]
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=2, arrivalTime=14, serviceTime=3}, Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}]
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=2, arrivalTime=14, serviceTime=3}, Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=7, serviceTime=4}]
+
+
+Time 8
+Waiting clients: [Client{id=2, arrivalTime=14, serviceTime=3}, Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=7, serviceTime=4}]
+
+
+Time 9
+Waiting clients: [Client{id=2, arrivalTime=14, serviceTime=3}, Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=7, serviceTime=4}]
+
+
+Time 10
+Waiting clients: [Client{id=2, arrivalTime=14, serviceTime=3}, Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=7, serviceTime=4}]
+
+
+Time 11
+Waiting clients: [Client{id=2, arrivalTime=14, serviceTime=3}, Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=7, serviceTime=4}]
+
+
+Time 12
+Waiting clients: [Client{id=2, arrivalTime=14, serviceTime=3}, Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=7, serviceTime=4}]
+
+
+Time 13
+Waiting clients: [Client{id=2, arrivalTime=14, serviceTime=3}, Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=7, serviceTime=4}]
+
+
+Time 14
+Waiting clients: [Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}, Client{id=2, arrivalTime=14, serviceTime=3}]
+Queue 2: [Client{id=4, arrivalTime=7, serviceTime=4}]
+
+
+Time 15
+Waiting clients: [Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}, Client{id=2, arrivalTime=14, serviceTime=3}]
+Queue 2: [Client{id=4, arrivalTime=7, serviceTime=4}]
+
+
+Time 16
+Waiting clients: [Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}, Client{id=2, arrivalTime=14, serviceTime=3}]
+Queue 2: [Client{id=4, arrivalTime=7, serviceTime=4}]
+
+
+Time 17
+Waiting clients: [Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}, Client{id=2, arrivalTime=14, serviceTime=3}]
+Queue 2: [Client{id=4, arrivalTime=7, serviceTime=4}]
+
+
+Time 18
+Waiting clients: [Client{id=1, arrivalTime=19, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}, Client{id=2, arrivalTime=14, serviceTime=3}]
+Queue 2: [Client{id=4, arrivalTime=7, serviceTime=4}]
+
+
+Time 19
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}, Client{id=2, arrivalTime=14, serviceTime=3}]
+Queue 2: [Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=1, arrivalTime=19, serviceTime=2}]
+
+
+Time 20
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=5, serviceTime=4}, Client{id=2, arrivalTime=14, serviceTime=3}]
+Queue 2: [Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=1, arrivalTime=19, serviceTime=2}]
+
+
+Time 0
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=12, serviceTime=3}]
+Queue 1: org.example.model.Queue$2@13839c1e
+Queue 2: org.example.model.Queue$2@6d6a7e37
+Queue 3: org.example.model.Queue$2@5eec3a75
+Queue 4: org.example.model.Queue$2@e85fe29
+
+
+Time 1
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=12, serviceTime=3}]
+Queue 1: org.example.model.Queue$2@3a08859c
+Queue 2: org.example.model.Queue$2@1af62ee
+Queue 3: org.example.model.Queue$2@1be094b
+Queue 4: org.example.model.Queue$2@5011428d
+
+
+Time 2
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=12, serviceTime=3}]
+Queue 1: org.example.model.Queue$2@2e4b0976
+Queue 2: org.example.model.Queue$2@5409a643
+Queue 3: org.example.model.Queue$2@258c19d8
+Queue 4: org.example.model.Queue$2@7f5322ce
+
+
+Time 3
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=12, serviceTime=3}]
+Queue 1: org.example.model.Queue$2@92594eb
+Queue 2: org.example.model.Queue$2@10871032
+Queue 3: org.example.model.Queue$2@55009923
+Queue 4: org.example.model.Queue$2@33a3841f
+
+
+Time 4
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=12, serviceTime=3}]
+Queue 1: org.example.model.Queue$2@1604dc4c
+Queue 2: org.example.model.Queue$2@3eaa483e
+Queue 3: org.example.model.Queue$2@6f320749
+Queue 4: org.example.model.Queue$2@401ef5cc
+
+
+Time 5
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=12, serviceTime=3}]
+Queue 1: org.example.model.Queue$2@7048b73f
+Queue 2: org.example.model.Queue$2@1ccfeab0
+Queue 3: org.example.model.Queue$2@6338ae2f
+Queue 4: org.example.model.Queue$2@54bf9711
+
+
+Time 6
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=12, serviceTime=3}]
+Queue 1: org.example.model.Queue$2@617b33f6
+Queue 2: org.example.model.Queue$2@282df03
+Queue 3: org.example.model.Queue$2@24ed50aa
+Queue 4: org.example.model.Queue$2@cc25c39
+
+
+Time 7
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=12, serviceTime=3}]
+Queue 1: org.example.model.Queue$2@341e2ad4
+Queue 2: org.example.model.Queue$2@20f08193
+Queue 3: org.example.model.Queue$2@6e56ed27
+Queue 4: org.example.model.Queue$2@70eb4740
+
+
+Time 8
+Waiting clients: [Client{id=2, arrivalTime=12, serviceTime=3}]
+Queue 1: org.example.model.Queue$2@35e68b03
+Queue 2: org.example.model.Queue$2@11be6835
+Queue 3: org.example.model.Queue$2@48d890f0
+Queue 4: org.example.model.Queue$2@62231fec
+
+
+Time 9
+Waiting clients: [Client{id=2, arrivalTime=12, serviceTime=3}]
+Queue 1: org.example.model.Queue$2@639c2e38
+Queue 2: org.example.model.Queue$2@1010dbe
+Queue 3: org.example.model.Queue$2@d52527e
+Queue 4: org.example.model.Queue$2@7774e047
+
+
+Time 10
+Waiting clients: [Client{id=2, arrivalTime=12, serviceTime=3}]
+Queue 1: org.example.model.Queue$2@759bed7f
+Queue 2: org.example.model.Queue$2@7c7e728f
+Queue 3: org.example.model.Queue$2@63a00edc
+Queue 4: org.example.model.Queue$2@3306bc37
+
+
+Time 11
+Waiting clients: [Client{id=2, arrivalTime=12, serviceTime=3}]
+Queue 1: org.example.model.Queue$2@195c5f3d
+Queue 2: org.example.model.Queue$2@16b9ac93
+Queue 3: org.example.model.Queue$2@758c8676
+Queue 4: org.example.model.Queue$2@736d6bf4
+
+
+Time 12
+Waiting clients: []
+Queue 1: org.example.model.Queue$2@8b37713
+Queue 2: org.example.model.Queue$2@53359fa2
+Queue 3: org.example.model.Queue$2@429b1c84
+Queue 4: org.example.model.Queue$2@5ab1ede8
+
+
+Time 13
+Waiting clients: []
+Queue 1: org.example.model.Queue$2@49290242
+Queue 2: org.example.model.Queue$2@361e5c4a
+Queue 3: org.example.model.Queue$2@2cfb1931
+Queue 4: org.example.model.Queue$2@79f07feb
+
+
+Time 14
+Waiting clients: []
+Queue 1: org.example.model.Queue$2@784a5985
+Queue 2: org.example.model.Queue$2@3c72b6ca
+Queue 3: org.example.model.Queue$2@483412e4
+Queue 4: org.example.model.Queue$2@32c1332e
+
+
+Time 0
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=6}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=6}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=6}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=6}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=6}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=6}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=6}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=6}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 8
+Waiting clients: [Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 9
+Waiting clients: [Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 10
+Waiting clients: [Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 11
+Waiting clients: [Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 12
+Waiting clients: [Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 13
+Waiting clients: [Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 14
+Waiting clients: [Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 15
+Waiting clients: [Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 16
+Waiting clients: [Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 17
+Waiting clients: [Client{id=2, arrivalTime=18, serviceTime=6}, Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 18
+Waiting clients: [Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: [Client{id=2, arrivalTime=18, serviceTime=6}]
+Queue 2: []
+
+
+Time 19
+Waiting clients: [Client{id=4, arrivalTime=20, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 20
+Waiting clients: []
+Queue 1: []
+Queue 2: []
+
+
+Time 0
+Waiting clients: [Client{id=2, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=9, serviceTime=5}, Client{id=3, arrivalTime=10, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=2, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=9, serviceTime=5}, Client{id=3, arrivalTime=10, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=2, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=9, serviceTime=5}, Client{id=3, arrivalTime=10, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=2, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=9, serviceTime=5}, Client{id=3, arrivalTime=10, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=1, arrivalTime=9, serviceTime=5}, Client{id=3, arrivalTime=10, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=1, arrivalTime=9, serviceTime=5}, Client{id=3, arrivalTime=10, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=1, arrivalTime=9, serviceTime=5}, Client{id=3, arrivalTime=10, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=1, arrivalTime=9, serviceTime=5}, Client{id=3, arrivalTime=10, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 8
+Waiting clients: [Client{id=1, arrivalTime=9, serviceTime=5}, Client{id=3, arrivalTime=10, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 9
+Waiting clients: [Client{id=3, arrivalTime=10, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 10
+Waiting clients: []
+Queue 1: []
+Queue 2: [Client{id=4, arrivalTime=10, serviceTime=2}]
+
+
+Time 11
+Waiting clients: []
+Queue 1: []
+Queue 2: [Client{id=4, arrivalTime=10, serviceTime=2}]
+
+
+Time 12
+Waiting clients: []
+Queue 1: []
+Queue 2: []
+
+
+Time 0
+Waiting clients: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}, Client{id=4, arrivalTime=8, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}, Client{id=4, arrivalTime=8, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}, Client{id=4, arrivalTime=8, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}, Client{id=4, arrivalTime=8, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}]
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}, Client{id=4, arrivalTime=8, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}]
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}, Client{id=4, arrivalTime=8, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}]
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=1, arrivalTime=7, serviceTime=4}, Client{id=4, arrivalTime=8, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=3}]
+
+
+Time 7
+Waiting clients: [Client{id=4, arrivalTime=8, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=3}]
+
+
+Time 8
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=2}]
+
+
+Time 9
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=2}]
+
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=2}]
+
+
+Time 11
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=2}]
+
+
+Time 12
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=2}]
+
+
+Time 13
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=2}]
+
+
+Time 14
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=2}]
+
+
+Time 15
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=2}]
+
+
+Time 16
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=2}]
+
+
+Time 17
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=2}]
+
+
+Time 18
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=2}]
+
+
+Time 19
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=2}]
+
+
+Time 20
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=3}, Client{id=1, arrivalTime=7, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=2}]
+
+
+Time 0
+Waiting clients: [Client{id=3, arrivalTime=3, serviceTime=2}, Client{id=4, arrivalTime=11, serviceTime=3}, Client{id=2, arrivalTime=13, serviceTime=2}, Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=3, arrivalTime=3, serviceTime=2}, Client{id=4, arrivalTime=11, serviceTime=3}, Client{id=2, arrivalTime=13, serviceTime=2}, Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=3, arrivalTime=3, serviceTime=2}, Client{id=4, arrivalTime=11, serviceTime=3}, Client{id=2, arrivalTime=13, serviceTime=2}, Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=4, arrivalTime=11, serviceTime=3}, Client{id=2, arrivalTime=13, serviceTime=2}, Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}]
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=4, arrivalTime=11, serviceTime=3}, Client{id=2, arrivalTime=13, serviceTime=2}, Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}]
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=4, arrivalTime=11, serviceTime=3}, Client{id=2, arrivalTime=13, serviceTime=2}, Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}]
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=4, arrivalTime=11, serviceTime=3}, Client{id=2, arrivalTime=13, serviceTime=2}, Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}]
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=4, arrivalTime=11, serviceTime=3}, Client{id=2, arrivalTime=13, serviceTime=2}, Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}]
+Queue 2: []
+
+
+Time 8
+Waiting clients: [Client{id=4, arrivalTime=11, serviceTime=3}, Client{id=2, arrivalTime=13, serviceTime=2}, Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}]
+Queue 2: []
+
+
+Time 9
+Waiting clients: [Client{id=4, arrivalTime=11, serviceTime=3}, Client{id=2, arrivalTime=13, serviceTime=2}, Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}]
+Queue 2: []
+
+
+Time 10
+Waiting clients: [Client{id=4, arrivalTime=11, serviceTime=3}, Client{id=2, arrivalTime=13, serviceTime=2}, Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}]
+Queue 2: []
+
+
+Time 11
+Waiting clients: [Client{id=2, arrivalTime=13, serviceTime=2}, Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=11, serviceTime=3}]
+
+
+Time 12
+Waiting clients: [Client{id=2, arrivalTime=13, serviceTime=2}, Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=11, serviceTime=3}]
+
+
+Time 13
+Waiting clients: [Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=13, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=11, serviceTime=3}]
+
+
+Time 14
+Waiting clients: [Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=13, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=11, serviceTime=3}]
+
+
+Time 15
+Waiting clients: [Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=13, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=11, serviceTime=3}]
+
+
+Time 16
+Waiting clients: [Client{id=1, arrivalTime=17, serviceTime=2}]
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=13, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=11, serviceTime=3}]
+
+
+Time 17
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=13, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=11, serviceTime=3}, Client{id=1, arrivalTime=17, serviceTime=2}]
+
+
+Time 18
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=13, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=11, serviceTime=3}, Client{id=1, arrivalTime=17, serviceTime=2}]
+
+
+Time 19
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=13, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=11, serviceTime=3}, Client{id=1, arrivalTime=17, serviceTime=2}]
+
+
+Time 20
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=13, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=11, serviceTime=3}, Client{id=1, arrivalTime=17, serviceTime=2}]
+
+
+Time 0
+Waiting clients: [Client{id=2, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=2, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=1, arrivalTime=11, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=2, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=2, serviceTime=4}, Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=1, arrivalTime=11, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=1, arrivalTime=11, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=1, arrivalTime=11, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=1, arrivalTime=11, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=1, arrivalTime=11, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=4, arrivalTime=7, serviceTime=4}, Client{id=1, arrivalTime=11, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=1, arrivalTime=11, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 8
+Waiting clients: [Client{id=1, arrivalTime=11, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 9
+Waiting clients: [Client{id=1, arrivalTime=11, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 10
+Waiting clients: [Client{id=1, arrivalTime=11, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 11
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=11, serviceTime=3}]
+Queue 2: []
+
+
+Time 0
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}]
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}]
+
+
+Time 6
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}]
+
+
+Time 7
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}]
+
+
+Time 8
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}]
+
+
+Time 9
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}]
+
+
+Time 10
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}]
+
+
+Time 11
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=1, arrivalTime=10, serviceTime=4}]
+
+
+Time 12
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}]
+
+
+Time 13
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}]
+
+
+Time 14
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}]
+
+
+Time 15
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}]
+
+
+Time 16
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}]
+
+
+Time 17
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}]
+
+
+Time 18
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}]
+
+
+Time 19
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}]
+
+
+Time 20
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=3, arrivalTime=12, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=1, arrivalTime=10, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=4, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=1, arrivalTime=10, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=5}]
+
+
+Time 0
+Waiting clients: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=5}, Client{id=3, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=10, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=4, arrivalTime=4, serviceTime=5}, Client{id=3, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=10, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=5}, Client{id=3, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=10, serviceTime=3}]
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}]
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=4, arrivalTime=4, serviceTime=5}, Client{id=3, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=10, serviceTime=3}]
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}]
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=3, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=10, serviceTime=3}]
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}]
+
+
+Time 5
+Waiting clients: [Client{id=3, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=10, serviceTime=3}]
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}]
+
+
+Time 6
+Waiting clients: [Client{id=3, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=10, serviceTime=3}]
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}]
+
+
+Time 7
+Waiting clients: [Client{id=3, arrivalTime=8, serviceTime=2}, Client{id=2, arrivalTime=10, serviceTime=3}]
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}]
+
+
+Time 8
+Waiting clients: [Client{id=2, arrivalTime=10, serviceTime=3}]
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}]
+
+
+Time 9
+Waiting clients: [Client{id=2, arrivalTime=10, serviceTime=3}]
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}]
+
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=3}]
+
+
+Time 11
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=3}]
+
+
+Time 12
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=3}]
+
+
+Time 13
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=3}]
+
+
+Time 14
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=3}]
+
+
+Time 15
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=3}]
+
+
+Time 16
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=3}]
+
+
+Time 17
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=3}]
+
+
+Time 18
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=3}]
+
+
+Time 19
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=3}]
+
+
+Time 20
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=4, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=3}]
+
+
+Time 0
+Waiting clients: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=3, arrivalTime=4, serviceTime=4}, Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=3, arrivalTime=4, serviceTime=4}, Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=3, arrivalTime=4, serviceTime=4}, Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}]
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=3, arrivalTime=4, serviceTime=4}, Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}]
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}]
+
+
+Time 5
+Waiting clients: [Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}]
+
+
+Time 6
+Waiting clients: [Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}]
+
+
+Time 7
+Waiting clients: [Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}]
+
+
+Time 8
+Waiting clients: [Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}]
+
+
+Time 9
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=9, serviceTime=2}]
+
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=9, serviceTime=2}]
+
+
+Time 11
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=9, serviceTime=2}]
+
+
+Time 12
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=9, serviceTime=2}]
+
+
+Time 13
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=9, serviceTime=2}]
+
+
+Time 14
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=9, serviceTime=2}]
+
+
+Time 15
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=9, serviceTime=2}]
+
+
+Time 16
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=9, serviceTime=2}]
+
+
+Time 17
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=9, serviceTime=2}]
+
+
+Time 18
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=9, serviceTime=2}]
+
+
+Time 19
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=9, serviceTime=2}]
+
+
+Time 20
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=2, serviceTime=4}, Client{id=3, arrivalTime=4, serviceTime=4}]
+Queue 2: [Client{id=2, arrivalTime=4, serviceTime=5}, Client{id=4, arrivalTime=9, serviceTime=2}]
+
+
+Time 0
+Waiting clients: [Client{id=1, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=5, serviceTime=5}, Client{id=4, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=1, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=5, serviceTime=5}, Client{id=4, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=1, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=5, serviceTime=5}, Client{id=4, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=1, arrivalTime=4, serviceTime=3}, Client{id=2, arrivalTime=5, serviceTime=5}, Client{id=4, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=2, arrivalTime=5, serviceTime=5}, Client{id=4, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=4, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=4, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=4, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 8
+Waiting clients: [Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=4, arrivalTime=8, serviceTime=5}]
+Queue 2: []
+
+
+Time 9
+Waiting clients: []
+Queue 1: []
+Queue 2: [Client{id=3, arrivalTime=9, serviceTime=2}]
+
+
+Time 0
+Waiting clients: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}]
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}]
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}]
+
+
+Time 6
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}]
+
+
+Time 7
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}]
+
+
+Time 8
+Waiting clients: [Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}]
+
+
+Time 9
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}]
+
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}]
+
+
+Time 11
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}]
+
+
+Time 12
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}]
+
+
+Time 13
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}]
+
+
+Time 14
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}]
+
+
+Time 15
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}]
+
+
+Time 16
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}]
+
+
+Time 17
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}]
+
+
+Time 18
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}]
+
+
+Time 19
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}]
+
+
+Time 20
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=5}]
+
+
+Time 0
+Waiting clients: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=1, arrivalTime=7, serviceTime=5}, Client{id=3, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=1, arrivalTime=7, serviceTime=5}, Client{id=3, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=1, arrivalTime=7, serviceTime=5}, Client{id=3, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=1, arrivalTime=7, serviceTime=5}, Client{id=3, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=1, arrivalTime=7, serviceTime=5}, Client{id=3, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=1, arrivalTime=7, serviceTime=5}, Client{id=3, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=1, arrivalTime=7, serviceTime=5}, Client{id=3, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=2, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 8
+Waiting clients: [Client{id=2, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 9
+Waiting clients: [Client{id=2, arrivalTime=10, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 10
+Waiting clients: []
+Queue 1: []
+Queue 2: []
+
+
+Time 0
+Waiting clients: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}]
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}]
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}]
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}]
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=7, serviceTime=3}]
+
+
+Time 8
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+
+
+Time 9
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+
+
+Time 11
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+
+
+Time 12
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+
+
+Time 13
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+
+
+Time 14
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+
+
+Time 15
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+
+
+Time 16
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+
+
+Time 17
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+
+
+Time 18
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+
+
+Time 19
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+
+
+Time 20
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=3, arrivalTime=8, serviceTime=4}]
+
+
+Time 0
+Waiting clients: [Client{id=2, arrivalTime=3, serviceTime=2}, Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=6, serviceTime=2}, Client{id=3, arrivalTime=8, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=2, arrivalTime=3, serviceTime=2}, Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=6, serviceTime=2}, Client{id=3, arrivalTime=8, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=2, arrivalTime=3, serviceTime=2}, Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=6, serviceTime=2}, Client{id=3, arrivalTime=8, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=6, serviceTime=2}, Client{id=3, arrivalTime=8, serviceTime=3}]
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=2}]
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=4, arrivalTime=5, serviceTime=2}, Client{id=1, arrivalTime=6, serviceTime=2}, Client{id=3, arrivalTime=8, serviceTime=3}]
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=2}]
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=1, arrivalTime=6, serviceTime=2}, Client{id=3, arrivalTime=8, serviceTime=3}]
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=1}]
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=3, arrivalTime=8, serviceTime=3}]
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=1}]
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=3, arrivalTime=8, serviceTime=3}]
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=0}]
+Queue 2: []
+
+
+Time 8
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=0}]
+Queue 2: [Client{id=3, arrivalTime=8, serviceTime=3}]
+
+
+Time 0
+Waiting clients: [Client{id=2, arrivalTime=2, serviceTime=2}, Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=4, arrivalTime=7, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=2, arrivalTime=2, serviceTime=2}, Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=4, arrivalTime=7, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=4, arrivalTime=7, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=5}]
+Queue 1: [Client{id=2, arrivalTime=2, serviceTime=2}]
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=4, arrivalTime=7, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=5}]
+Queue 1: [Client{id=2, arrivalTime=2, serviceTime=2}]
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=4, arrivalTime=7, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=5}]
+Queue 1: [Client{id=2, arrivalTime=2, serviceTime=2}]
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=4, arrivalTime=7, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=5}]
+Queue 1: [Client{id=2, arrivalTime=2, serviceTime=1}]
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=4, arrivalTime=7, serviceTime=5}, Client{id=3, arrivalTime=9, serviceTime=5}]
+Queue 1: [Client{id=2, arrivalTime=2, serviceTime=1}]
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=3, arrivalTime=9, serviceTime=5}]
+Queue 1: [Client{id=2, arrivalTime=2, serviceTime=0}, Client{id=4, arrivalTime=7, serviceTime=5}]
+Queue 2: []
+
+
+Time 8
+Waiting clients: [Client{id=3, arrivalTime=9, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=7, serviceTime=5}]
+Queue 2: []
+
+
+Time 0
+Waiting clients: [Client{id=3, arrivalTime=2, serviceTime=5}, Client{id=2, arrivalTime=8, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=3, arrivalTime=2, serviceTime=5}, Client{id=2, arrivalTime=8, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=3}]
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=5}]
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}, Client{id=1, arrivalTime=10, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 0
+Waiting clients: [Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=4, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=10, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=4, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=10, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=4, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=10, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=4, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=10, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=4, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=10, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=3, arrivalTime=6, serviceTime=4}, Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=4, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=10, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=4, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=10, serviceTime=4}]
+Queue 1: [Client{id=3, arrivalTime=6, serviceTime=4}]
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=4, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=10, serviceTime=4}]
+Queue 1: [Client{id=3, arrivalTime=6, serviceTime=3}]
+Queue 2: []
+
+
+Time 8
+Waiting clients: [Client{id=2, arrivalTime=10, serviceTime=4}]
+Queue 1: [Client{id=3, arrivalTime=6, serviceTime=3}, Client{id=4, arrivalTime=8, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=8, serviceTime=2}]
+
+
+Time 9
+Waiting clients: [Client{id=2, arrivalTime=10, serviceTime=4}]
+Queue 1: [Client{id=3, arrivalTime=6, serviceTime=2}, Client{id=4, arrivalTime=8, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=8, serviceTime=2}]
+
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=6, serviceTime=2}, Client{id=4, arrivalTime=8, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=8, serviceTime=1}, Client{id=2, arrivalTime=10, serviceTime=4}]
+
+
+Time 11
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=6, serviceTime=1}, Client{id=4, arrivalTime=8, serviceTime=3}]
+Queue 2: [Client{id=1, arrivalTime=8, serviceTime=1}, Client{id=2, arrivalTime=10, serviceTime=4}]
+
+
+Time 12
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=6, serviceTime=1}, Client{id=4, arrivalTime=8, serviceTime=3}]
+Queue 2: [Client{id=2, arrivalTime=10, serviceTime=4}]
+
+
+Time 13
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=8, serviceTime=3}]
+Queue 2: [Client{id=2, arrivalTime=10, serviceTime=4}]
+
+
+Time 14
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=8, serviceTime=3}]
+Queue 2: [Client{id=2, arrivalTime=10, serviceTime=3}]
+
+
+Time 15
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=2, arrivalTime=10, serviceTime=3}]
+
+
+Time 16
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=2, arrivalTime=10, serviceTime=2}]
+
+
+Time 0
+Waiting clients: [Client{id=2, arrivalTime=2, serviceTime=3}, Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=2, arrivalTime=2, serviceTime=3}, Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=3}]
+Queue 1: [Client{id=2, arrivalTime=2, serviceTime=3}]
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=3}]
+Queue 1: [Client{id=2, arrivalTime=2, serviceTime=2}]
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=3}]
+Queue 1: [Client{id=2, arrivalTime=2, serviceTime=2}]
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=3}]
+Queue 1: [Client{id=2, arrivalTime=2, serviceTime=1}]
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=2}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=3}]
+Queue 1: []
+Queue 2: []
+
+
+Time 8
+Waiting clients: [Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=10, serviceTime=3}]
+Queue 1: [Client{id=1, arrivalTime=8, serviceTime=2}]
+Queue 2: []
+
+
+Time 9
+Waiting clients: [Client{id=4, arrivalTime=10, serviceTime=3}]
+Queue 1: [Client{id=1, arrivalTime=8, serviceTime=1}]
+Queue 2: [Client{id=3, arrivalTime=9, serviceTime=2}]
+
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=8, serviceTime=1}, Client{id=4, arrivalTime=10, serviceTime=3}]
+Queue 2: [Client{id=3, arrivalTime=9, serviceTime=2}]
+
+
+Time 11
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=10, serviceTime=2}]
+Queue 2: []
+
+
+Time 12
+Waiting clients: []
+Queue 1: [Client{id=4, arrivalTime=10, serviceTime=1}]
+Queue 2: []
+
+
+Time 0
+Waiting clients: [Client{id=3, arrivalTime=2, serviceTime=4}, Client{id=1, arrivalTime=3, serviceTime=3}, Client{id=2, arrivalTime=4, serviceTime=2}, Client{id=4, arrivalTime=5, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=3, arrivalTime=2, serviceTime=4}, Client{id=1, arrivalTime=3, serviceTime=3}, Client{id=2, arrivalTime=4, serviceTime=2}, Client{id=4, arrivalTime=5, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=1, arrivalTime=3, serviceTime=3}, Client{id=2, arrivalTime=4, serviceTime=2}, Client{id=4, arrivalTime=5, serviceTime=4}]
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=4}]
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=2, arrivalTime=4, serviceTime=2}, Client{id=4, arrivalTime=5, serviceTime=4}]
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=3}]
+
+
+Time 4
+Waiting clients: [Client{id=4, arrivalTime=5, serviceTime=4}]
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}]
+
+
+Time 5
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 6
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 7
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 8
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 9
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 11
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 12
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 13
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 14
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 15
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 16
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 17
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 18
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 19
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 20
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=2, serviceTime=1}, Client{id=2, arrivalTime=4, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=3, serviceTime=1}, Client{id=4, arrivalTime=5, serviceTime=4}]
+
+
+Time 0
+Waiting clients: [Client{id=4, arrivalTime=2, serviceTime=4}, Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=1, arrivalTime=9, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=4, arrivalTime=2, serviceTime=4}, Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=1, arrivalTime=9, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=1, arrivalTime=9, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=4, arrivalTime=2, serviceTime=4}]
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=1, arrivalTime=9, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=4, arrivalTime=2, serviceTime=3}]
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=1, arrivalTime=9, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=4, arrivalTime=2, serviceTime=3}]
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=1, arrivalTime=9, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=4, arrivalTime=2, serviceTime=2}]
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=1, arrivalTime=9, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=4, arrivalTime=2, serviceTime=1}]
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=1, arrivalTime=9, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=4, arrivalTime=2, serviceTime=1}]
+Queue 2: []
+
+
+Time 8
+Waiting clients: [Client{id=1, arrivalTime=9, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=2, arrivalTime=8, serviceTime=4}]
+Queue 2: []
+
+
+Time 9
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=8, serviceTime=3}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=9, serviceTime=4}]
+
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=8, serviceTime=3}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=9, serviceTime=4}]
+
+
+Time 11
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=8, serviceTime=2}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=9, serviceTime=3}]
+
+
+Time 12
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=8, serviceTime=1}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=9, serviceTime=2}]
+
+
+Time 13
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=8, serviceTime=1}, Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=9, serviceTime=2}]
+
+
+Time 14
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=1, arrivalTime=9, serviceTime=1}]
+
+
+Time 15
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=9, serviceTime=1}]
+Queue 2: []
+
+
+Time 16
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=9, serviceTime=1}]
+Queue 2: []
+
+
+Time 0
+Waiting clients: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=3, arrivalTime=4, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=9, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=3, arrivalTime=4, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=9, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=4, arrivalTime=3, serviceTime=2}, Client{id=3, arrivalTime=4, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=9, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=3, arrivalTime=4, serviceTime=2}, Client{id=1, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=9, serviceTime=4}]
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}]
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=9, serviceTime=4}]
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=2}]
+Queue 2: [Client{id=3, arrivalTime=4, serviceTime=2}]
+
+
+Time 5
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=9, serviceTime=4}]
+Queue 1: [Client{id=4, arrivalTime=3, serviceTime=1}]
+Queue 2: [Client{id=3, arrivalTime=4, serviceTime=2}]
+
+
+Time 6
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=9, serviceTime=4}]
+Queue 1: []
+Queue 2: [Client{id=3, arrivalTime=4, serviceTime=1}]
+
+
+Time 7
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=3}, Client{id=2, arrivalTime=9, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 8
+Waiting clients: [Client{id=2, arrivalTime=9, serviceTime=4}]
+Queue 1: [Client{id=1, arrivalTime=8, serviceTime=3}]
+Queue 2: []
+
+
+Time 9
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=8, serviceTime=3}]
+Queue 2: [Client{id=2, arrivalTime=9, serviceTime=4}]
+
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=2, arrivalTime=9, serviceTime=4}]
+
+
+Time 11
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=8, serviceTime=2}]
+Queue 2: [Client{id=2, arrivalTime=9, serviceTime=3}]
+
+
+Time 12
+Waiting clients: []
+Queue 1: [Client{id=1, arrivalTime=8, serviceTime=1}]
+Queue 2: [Client{id=2, arrivalTime=9, serviceTime=3}]
+
+
+Time 13
+Waiting clients: []
+Queue 1: []
+Queue 2: [Client{id=2, arrivalTime=9, serviceTime=2}]
+
+
+Time 14
+Waiting clients: []
+Queue 1: []
+Queue 2: [Client{id=2, arrivalTime=9, serviceTime=2}]
+
+
+Time 15
+Waiting clients: []
+Queue 1: []
+Queue 2: [Client{id=2, arrivalTime=9, serviceTime=1}]
+
+
+Time 0
+Waiting clients: [Client{id=1, arrivalTime=3, serviceTime=2}, Client{id=4, arrivalTime=3, serviceTime=3}, Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=1, arrivalTime=3, serviceTime=2}, Client{id=4, arrivalTime=3, serviceTime=3}, Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=1, arrivalTime=3, serviceTime=2}, Client{id=4, arrivalTime=3, serviceTime=3}, Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: [Client{id=1, arrivalTime=3, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=3, serviceTime=3}]
+
+
+Time 4
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=2, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=8, serviceTime=4}]
+Queue 1: []
+Queue 2: []
+
+
+Time 8
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=8, serviceTime=4}]
+Queue 2: [Client{id=3, arrivalTime=8, serviceTime=4}]
+
+
+Time 0
+Waiting clients: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=1, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=1, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=2, arrivalTime=3, serviceTime=4}, Client{id=1, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=2, arrivalTime=3, serviceTime=4}]
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=1, arrivalTime=8, serviceTime=4}, Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: []
+Queue 2: []
+
+
+Time 8
+Waiting clients: [Client{id=3, arrivalTime=9, serviceTime=2}, Client{id=4, arrivalTime=9, serviceTime=2}]
+Queue 1: [Client{id=1, arrivalTime=8, serviceTime=4}]
+Queue 2: []
+
+
+Time 9
+Waiting clients: []
+Queue 1: [Client{id=3, arrivalTime=9, serviceTime=2}]
+Queue 2: [Client{id=4, arrivalTime=9, serviceTime=2}]
+
+
+Time 0
+Waiting clients: [Client{id=1, arrivalTime=3, serviceTime=3}, Client{id=4, arrivalTime=6, serviceTime=2}, Client{id=3, arrivalTime=7, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 1
+Waiting clients: [Client{id=1, arrivalTime=3, serviceTime=3}, Client{id=4, arrivalTime=6, serviceTime=2}, Client{id=3, arrivalTime=7, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 2
+Waiting clients: [Client{id=1, arrivalTime=3, serviceTime=3}, Client{id=4, arrivalTime=6, serviceTime=2}, Client{id=3, arrivalTime=7, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 3
+Waiting clients: [Client{id=4, arrivalTime=6, serviceTime=2}, Client{id=3, arrivalTime=7, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 4
+Waiting clients: [Client{id=4, arrivalTime=6, serviceTime=2}, Client{id=3, arrivalTime=7, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 5
+Waiting clients: [Client{id=4, arrivalTime=6, serviceTime=2}, Client{id=3, arrivalTime=7, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 6
+Waiting clients: [Client{id=3, arrivalTime=7, serviceTime=5}, Client{id=2, arrivalTime=10, serviceTime=5}]
+Queue 1: [Client{id=4, arrivalTime=6, serviceTime=2}]
+Queue 2: []
+
+
+Time 7
+Waiting clients: [Client{id=2, arrivalTime=10, serviceTime=5}]
+Queue 1: [Client{id=3, arrivalTime=7, serviceTime=5}]
+Queue 2: []
+
+
+Time 8
+Waiting clients: [Client{id=2, arrivalTime=10, serviceTime=5}]
+Queue 1: [Client{id=3, arrivalTime=7, serviceTime=5}]
+Queue 2: []
+
+
+Time 9
+Waiting clients: [Client{id=2, arrivalTime=10, serviceTime=5}]
+Queue 1: []
+Queue 2: []
+
+
+Time 10
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=10, serviceTime=5}]
+Queue 2: []
+
+
+Time 11
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=10, serviceTime=5}]
+Queue 2: []
+
+
+Time 12
+Waiting clients: []
+Queue 1: [Client{id=2, arrivalTime=10, serviceTime=5}]
+Queue 2: []
+
+
